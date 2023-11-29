@@ -1,0 +1,11 @@
+{
+  "realm": "Myreal",
+  "auth-server-url": "http://192.168.150.11:8080/",
+  "ssl-required": "external",
+  "resource": "MyApp",
+  "enable-cors": true,
+  "public-client": true,
+  "verify-token-audience": true,
+  "use-resource-role-mappings": true,
+  "confidential-port": 0
+}
